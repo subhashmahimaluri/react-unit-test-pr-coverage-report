@@ -1,1 +1,2 @@
-# react-unit-test-pr-coverage-report
+# vite-pr-coverage-insight
+Vite Pull Request Coverage Insight
